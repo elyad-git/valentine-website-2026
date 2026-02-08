@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "OA",  // Shows when they go past 5000%
-        high: "AWWW I love you, baby 🥰",              // Shows when they go past 1000%
-        normal: "Yun lang? 😒"                           // Shows when they go past 100%
+        extreme: "AWWW I love you, baby 🥰🥰🥰",  // Shows when they go past 5000%
+        high: "Dapat lang 🙄🙄🙄",              // Shows when they go past 1000%
+        normal: "Yun lang? 😒😒😒"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "CONGRATULATIONS!!!",
+        message: "See you on the 14th, baby! 😘❤️",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
